@@ -9,7 +9,7 @@
         <relativePath>../e3-parent/pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-
+<!--qweq-->
     <artifactId>e3-common</artifactId>
     <packaging>jar</packaging>
 
